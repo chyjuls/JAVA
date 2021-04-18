@@ -1,6 +1,6 @@
 package PasswordGeneratorApp;
 import java.util.*;
-// Generate a password with maximum length of 8 characters.
+// Generate a password with maximum length of 10 characters.
 public class PasswordGenerator {
     public static void main(String [] args){
         int PasswordsLength = 10;
